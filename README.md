@@ -1,4 +1,4 @@
-# computational_physics
+# Computational Physics
 This repository contains computational physics works.
 
 ## Projects
